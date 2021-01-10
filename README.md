@@ -1,6 +1,7 @@
 # usefulwebsitefordev
 ```
-Hope you guys like the list useful websites, let us help and save lots of developers time, if you are interested please contribute and share.
+Hope you guys like the list useful websites, let us help and save lots of developers time, 
+if you are interested please contribute and share.
 ```
 1. [Stackoverflow](https://stackoverflow.com/)
 1. [codementor](https://www.codementor.io/)
