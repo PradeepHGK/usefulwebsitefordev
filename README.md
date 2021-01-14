@@ -16,6 +16,15 @@ if you are interested please contribute and share.
 1. [devdocs](https://devdocs.io/)
 1. [Medium](https://medium.com/)
 1. [CSSTricks]()
+1. [Can i use](https://caniuse.com/)
+1. [Unminify](https://unminify.com/)
+1. [Compressor.io](https://compressor.io/)
+1. [Cloudcraft](https://www.cloudcraft.co/)
+1. [Request Bin](https://requestbin.com/)
+1. [WebCodeTools](https://webcode.tools/)
+1. [Bundlephobia](https://bundlephobia.com/)
+1. [JSONlint](https://jsonlint.com/)
+1. 
 
 
 # useful youtube channels 
@@ -25,6 +34,7 @@ if you are interested please contribute and share.
 1. [geeksforgeeks]()
 1. [codex]()
 1. [Akshaysaini]()
+1. [GauravSen](https://www.youtube.com/c/GauravSensei/featured)
 
 
 # UI
