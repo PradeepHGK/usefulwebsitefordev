@@ -18,7 +18,7 @@ if you are interested please contribute and share.
 1. [CSSTricks]()
 
 
-# userful youtube channels 
+# useful youtube channels 
 1. [CoderMonk]() 
 1. [travesryMedia]()
 1. [tanaypratap]()
