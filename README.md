@@ -42,3 +42,15 @@ if you are interested please contribute and share.
 1. [Adobe Color](https://color.adobe.com/)
 1. [Dribble](https://dribbble.com)
 1. [Behance](https://www.behance.net/)
+
+
+
+### Interview Preparation
+1. [HackerRank]()
+1. [Leetcode]()
+1. [Geeksforgeeks]()
+1. [HackerEarth]()
+1. [PRAMP](https://www.pramp.com/#/)
+
+### Resume Preparation
+1. [Google on Resume | Tips](https://youtu.be/BYUy1yvjHxE)
