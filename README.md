@@ -54,3 +54,5 @@ if you are interested please contribute and share.
 
 ### Resume Preparation
 1. [Google on Resume | Tips](https://youtu.be/BYUy1yvjHxE)
+  * ### Blogs
+    1. [Shubham - Google SDE](https://heyshubham.medium.com/journey-to-google-687e3de7e6d6)
