@@ -25,3 +25,10 @@ if you are interested please contribute and share.
 1. [geeksforgeeks]()
 1. [codex]()
 1. [Akshaysaini]()
+
+
+# UI
+1. [Colorhunt](https://colorhunt.co/palettes/trendy)
+1. [Adobe Color](https://color.adobe.com/)
+1. [Dribble](https://dribbble.com)
+1. [Behance](https://www.behance.net/)
