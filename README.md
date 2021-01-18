@@ -60,6 +60,6 @@ if you are interested please contribute and share.
 1. [Scrimba](https://scrimba.com/)
 
 ### Resume Preparation
-1. [Google on Resume | Tips](https://youtu.be/BYUy1yvjHxE)
+1. [Google Tips on Building Resume](https://youtu.be/BYUy1yvjHxE)
   * ### Blogs
     1. [Shubham - Google SDE](https://heyshubham.medium.com/journey-to-google-687e3de7e6d6)
