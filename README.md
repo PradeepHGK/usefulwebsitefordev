@@ -38,6 +38,12 @@ if you are interested please contribute and share.
 1. [GauravSen](https://www.youtube.com/c/GauravSensei/featured)
 
 
+# RoyaltyFree Music for YT
+1. [MusicBed](https://www.musicbed.com/)
+1. [BendSound](https://www.bensound.com/)
+1. [Artlist](https://artlist.io/)
+1. [YT Channel Audio Library](https://www.youtube.com/c/audiolibrary-channel/videos)
+
 # UI
 1. [Colorhunt](https://colorhunt.co/palettes/trendy)
 1. [Adobe Color](https://color.adobe.com/)
