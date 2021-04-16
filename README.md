@@ -3,6 +3,10 @@
 Hope you all like the list useful websites, let us help and save lots of developers time, 
 if you are interested please contribute and share.
 ```
+#### dev resources & road map
+1. [DevResources](https://devresources.guru/)
+
+
 1. [Stackoverflow](https://stackoverflow.com/)
 1. [codementor](https://www.codementor.io/)
 1. [DEVHINTS.IO](https://devhints.io/)
