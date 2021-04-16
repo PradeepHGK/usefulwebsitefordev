@@ -69,3 +69,6 @@ if you are interested please contribute and share.
 1. [Google Tips on Building Resume](https://youtu.be/BYUy1yvjHxE)
   * ### Blogs
     1. [Shubham - Google SDE](https://heyshubham.medium.com/journey-to-google-687e3de7e6d6)
+
+### Project Ideas
+1. From [DevJunction](https://www.linkedin.com/posts/hamhaingaurav_5-projects-to-become-a-django-pro-activity-6779597971689394176-mD1D/) 
