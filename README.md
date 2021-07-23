@@ -7,6 +7,12 @@ if you are interested please contribute and share.
 1. [DevResources](https://devresources.guru/)
 
 
+### Text Searching Capablity in App aka Fuzzy Search
+1. Elastic Search
+2. Solr
+3. Apache Lucene
+
+
 1. [Stackoverflow](https://stackoverflow.com/)
 1. [codementor](https://www.codementor.io/)
 1. [DEVHINTS.IO](https://devhints.io/)
